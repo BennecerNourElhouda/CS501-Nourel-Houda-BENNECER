@@ -5,6 +5,6 @@
 This repository is a part of an assignment for CS501
 ### Repository Structure:
 - .gitignore
-- Exo1
+- [Exo1.ipynb](https://github.com/BennecerNourElhouda/CS501-Nourel-Houda-BENNECER/blob/main/Exo1.ipynb)
 - LICENSE
 - README.md
