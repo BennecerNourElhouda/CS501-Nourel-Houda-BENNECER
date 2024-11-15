@@ -4,7 +4,7 @@
 ### About the repository:
 This repository is a part of an assignment for CS501
 ### Repository Structure:
-- README.md
-- LICENSE
-- .gitignore
 - Exo1
+- .gitignore
+- LICENSE
+- README.md
